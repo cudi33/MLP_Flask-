@@ -127,7 +127,7 @@ Model, **Flask** kullanılarak geliştirilen basit bir web arayüzü
 
 ## 📁 Proje Dosya Yapısı
 
-Medical_Cost_Prediction/
+```Medical_Cost_Prediction/
 │
 ├── insurance.csv
 ├── model.pkl
@@ -136,7 +136,7 @@ Medical_Cost_Prediction/
 ├── README.md
 │
 └── templates/
-    └── index.html
+    └── index.html```
 
 
 ---
@@ -158,6 +158,7 @@ Bu projede, çoklu doğrusal regresyon kullanılarak tıbbi harcamaların
 tahmini başarıyla gerçekleştirilmiş ve model Flask tabanlı bir arayüzle
 sunulmuştur. Proje, verilen tüm gereksinimleri eksiksiz şekilde
 karşılamaktadır.
+
 
 
 
