@@ -132,10 +132,12 @@ Medical_Cost_Prediction/
 ├── insurance.csv
 ├── model.pkl
 ├── app.py
-├── templates/
-│ └── index.html
 ├── Medical_Cost_Prediction.ipynb
-└── README.md
+├── README.md
+│
+└── templates/
+    └── index.html
+
 
 ---
 
@@ -156,6 +158,7 @@ Bu projede, çoklu doğrusal regresyon kullanılarak tıbbi harcamaların
 tahmini başarıyla gerçekleştirilmiş ve model Flask tabanlı bir arayüzle
 sunulmuştur. Proje, verilen tüm gereksinimleri eksiksiz şekilde
 karşılamaktadır.
+
 
 
 
