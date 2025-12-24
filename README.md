@@ -143,7 +143,8 @@ Medical_Cost_Prediction/
 
 ```bash
 pip install flask numpy pandas scikit-learn statsmodels
-python app.py ```
+python app.py
+``` 
 Tarayıcıdan:
 http://.......... 
 
@@ -155,5 +156,6 @@ Bu projede, çoklu doğrusal regresyon kullanılarak tıbbi harcamaların
 tahmini başarıyla gerçekleştirilmiş ve model Flask tabanlı bir arayüzle
 sunulmuştur. Proje, verilen tüm gereksinimleri eksiksiz şekilde
 karşılamaktadır.
+
 
 
